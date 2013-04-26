@@ -1,7 +1,7 @@
 Class test
 {
 public static void main (String args[]) throws Exception {
-String name = "siva";
-System.out.println("NAME_IS :::" + name);
+String age = "siva";
+System.out.println("AGE_IS :::" + age);
 }
 }
